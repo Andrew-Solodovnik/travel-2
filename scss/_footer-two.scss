@@ -1,0 +1,53 @@
+.footer-two {
+    padding: 30px;
+    background-image: url("../images/BG Image.png");
+background-position: bottom;
+}
+
+
+
+.footer-icon {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+   font-size: 3rem;
+   margin-bottom: 20px;
+}
+
+.footer-icon {
+    color: white;
+}
+
+
+.footer-icon > .footer-icon-img:hover {
+    color: rgb(16, 112, 202);
+}
+.info-item {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    margin-bottom: 10px;
+    color: white;
+    
+}
+
+.privacy-item {
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    margin-bottom: 10px;
+    color: white;
+    
+
+}
+
+.footer-two-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+      
+.footer-two-text {
+    color: white;
+}
